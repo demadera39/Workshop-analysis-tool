@@ -1,0 +1,7 @@
+{
+  "name": "WorkshopDoc AI",
+  "description": "Capture, analyze, and summarize workshop materials like post-its and canvases into actionable reports using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
